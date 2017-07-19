@@ -26,3 +26,8 @@ A collection of personal learning materials.
 * Coursera Neural Networks for Machine Learning Course by Geoffrey Hinton, https://www.coursera.org/learn/neural-networks/home/welcome
 
 * Excellent book <Deep Learning> by Ian Goodfellow, Yoshua Bengio and Aaron Courville, http://www.deeplearningbook.org/
+
+
+### Natrual Language Processing
+
+* Stanford CS224n: Natural Language Processing with Deep Learning, http://web.stanford.edu/class/cs224n/syllabus.html
