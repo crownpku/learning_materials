@@ -7,7 +7,7 @@ A collection of personal learning materials.
 
 - [x] Excellent Introductory Blog: http://karpathy.github.io/2016/05/31/rl/
 
-* RL Course by David Silver, Youtube: https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT
+* RL Course by David Silver: http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
 
 * TensorForce, A TensorFlow library for applied reinforcement learning: https://github.com/reinforceio/tensorforce
 
