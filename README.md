@@ -9,7 +9,11 @@ A collection of personal learning materials.
 
 * RL Course by David Silver: http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
 
+* Learning Reinforcement Learning by Denny Britz: https://github.com/dennybritz/reinforcement-learning
+
 * TensorForce, A TensorFlow library for applied reinforcement learning: https://github.com/reinforceio/tensorforce
+
+* Deep Reinforcement Learning for Keras: https://github.com/matthiasplappert/keras-rl
 
 
 ### Machine Learning
@@ -18,20 +22,22 @@ A collection of personal learning materials.
 
 * 著名的西瓜书 《机器学习》 周志华 清华大学出版社
 
-* Famous Coursera Machine Learning Course by Andrew Ng, https://www.coursera.org/learn/machine-learning
+* Famous Coursera Machine Learning Course by Andrew Ng: https://www.coursera.org/learn/machine-learning
 
-- [x] Relatively easy course by Coursera Machine Learning Specialization by University of Washington, https://www.coursera.org/specializations/machine-learning
+- [x] Relatively easy course by Coursera Machine Learning Specialization by University of Washington: https://www.coursera.org/specializations/machine-learning
 
 
 ### Deep Learning
 
-- [x] Coursera Neural Networks for Machine Learning Course by Geoffrey Hinton, https://www.coursera.org/learn/neural-networks/home/welcome
+- [x] Coursera Neural Networks for Machine Learning Course by Geoffrey Hinton: https://www.coursera.org/learn/neural-networks/home/welcome
 
-- [On Going] Excellent book <Deep Learning> by Ian Goodfellow, Yoshua Bengio and Aaron Courville, http://www.deeplearningbook.org/
+- [On Going] Excellent book <Deep Learning> by Ian Goodfellow, Yoshua Bengio and Aaron Courville: http://www.deeplearningbook.org/
 
 
 ### Natrual Language Processing
 
-- [x] Stanford CS224n: Natural Language Processing with Deep Learning, http://web.stanford.edu/class/cs224n/syllabus.html
+- [x] Stanford CS224n: Natural Language Processing with Deep Learning: http://web.stanford.edu/class/cs224n/syllabus.html
 
-- [On Going] Oxford CS DeepNLP Course, https://github.com/oxford-cs-deepnlp-2017
+- [On Going] Oxford CS DeepNLP Course: https://github.com/oxford-cs-deepnlp-2017
+
+* Neural Machine Translation (seq2seq) Tutorial: https://github.com/tensorflow/nmt
