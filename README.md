@@ -7,6 +7,8 @@ A collection of personal learning materials.
 
 - [x] Excellent Introductory Blog: http://karpathy.github.io/2016/05/31/rl/
 
+* RL Course by David Silver, Youtube: https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT
+
 * TensorForce, A TensorFlow library for applied reinforcement learning: https://github.com/reinforceio/tensorforce
 
 
@@ -25,9 +27,11 @@ A collection of personal learning materials.
 
 - [x] Coursera Neural Networks for Machine Learning Course by Geoffrey Hinton, https://www.coursera.org/learn/neural-networks/home/welcome
 
-* Excellent book <Deep Learning> by Ian Goodfellow, Yoshua Bengio and Aaron Courville, http://www.deeplearningbook.org/
+- [On Going] Excellent book <Deep Learning> by Ian Goodfellow, Yoshua Bengio and Aaron Courville, http://www.deeplearningbook.org/
 
 
 ### Natrual Language Processing
 
-* Stanford CS224n: Natural Language Processing with Deep Learning, http://web.stanford.edu/class/cs224n/syllabus.html
+- [x] Stanford CS224n: Natural Language Processing with Deep Learning, http://web.stanford.edu/class/cs224n/syllabus.html
+
+- [On Going] Oxford CS DeepNLP Course, https://github.com/oxford-cs-deepnlp-2017
