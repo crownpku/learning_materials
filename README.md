@@ -3,19 +3,6 @@
 A collection of personal learning materials.
 
 
-### Deep Reinforcement Learning
-
-- [x] Excellent Introductory Blog: http://karpathy.github.io/2016/05/31/rl/
-
-* RL Course by David Silver: http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
-
-* Learning Reinforcement Learning by Denny Britz: https://github.com/dennybritz/reinforcement-learning
-
-* TensorForce, A TensorFlow library for applied reinforcement learning: https://github.com/reinforceio/tensorforce
-
-* Deep Reinforcement Learning for Keras: https://github.com/matthiasplappert/keras-rl
-
-
 ### Machine Learning
 
 - [x] 比较入门、比较薄、开启了数学大门的 《统计学习方法》 李航 清华大学出版社 
@@ -41,3 +28,16 @@ A collection of personal learning materials.
 - [On Going] Oxford CS DeepNLP Course: https://github.com/oxford-cs-deepnlp-2017
 
 * Neural Machine Translation (seq2seq) Tutorial: https://github.com/tensorflow/nmt
+
+
+### Deep Reinforcement Learning
+
+- [x] Excellent Introductory Blog: http://karpathy.github.io/2016/05/31/rl/
+
+* RL Course by David Silver: http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+
+* Learning Reinforcement Learning by Denny Britz: https://github.com/dennybritz/reinforcement-learning
+
+* TensorForce, A TensorFlow library for applied reinforcement learning: https://github.com/reinforceio/tensorforce
+
+* Deep Reinforcement Learning for Keras: https://github.com/matthiasplappert/keras-rl
