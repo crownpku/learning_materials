@@ -18,14 +18,14 @@ A collection of personal learning materials.
 
 - [x] Coursera Neural Networks for Machine Learning Course by Geoffrey Hinton: https://www.coursera.org/learn/neural-networks/home/welcome
 
-- [On Going] Excellent book <Deep Learning> by Ian Goodfellow, Yoshua Bengio and Aaron Courville: http://www.deeplearningbook.org/
+- Excellent book <Deep Learning> by Ian Goodfellow, Yoshua Bengio and Aaron Courville: http://www.deeplearningbook.org/
 
 
 ### Natrual Language Processing
 
 - [x] Stanford CS224n: Natural Language Processing with Deep Learning: http://web.stanford.edu/class/cs224n/syllabus.html
 
-- [On Going] Oxford CS DeepNLP Course: https://github.com/oxford-cs-deepnlp-2017
+- Oxford CS DeepNLP Course: https://github.com/oxford-cs-deepnlp-2017
 
 * Neural Machine Translation (seq2seq) Tutorial: https://github.com/tensorflow/nmt
 
