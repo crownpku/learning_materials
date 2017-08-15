@@ -41,3 +41,11 @@ A collection of personal learning materials.
 * TensorForce, A TensorFlow library for applied reinforcement learning: https://github.com/reinforceio/tensorforce
 
 * Deep Reinforcement Learning for Keras: https://github.com/matthiasplappert/keras-rl
+
+
+### Tensorflow
+
+* Official Tensorflow Tutorial: https://www.tensorflow.org/tutorials/
+
+* Effective TensorFlow, TensorFlow tutorials and best practices: https://github.com/vahidk/EffectiveTensorflow
+
