@@ -49,3 +49,4 @@ A collection of personal learning materials.
 
 * Effective TensorFlow, TensorFlow tutorials and best practices: https://github.com/vahidk/EffectiveTensorflow
 
+* Awesome TensorFlow, A curated list of awesome TensorFlow experiments, libraries, and projects: https://github.com/jtoy/awesome-tensorflow 
